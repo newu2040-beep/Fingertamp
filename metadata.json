@@ -1,0 +1,6 @@
+{
+  "name": "FingerStamp",
+  "description": "Biometric personalization, animation studio, lock screen designer, and secure app lock folder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
